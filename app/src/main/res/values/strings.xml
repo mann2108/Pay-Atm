@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PAY_ATM</string>
+    <string name="button_label">Send Message</string>
+    <string name="input_text">Enter the Message</string>
+    <string name="welcome_message">WELCOME TO PAY-ATM</string>
+    <string name="final_message">Welcome To Final Activity</string>
+    <string name="open_final_activity">Open Final Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="article_fragment">Article Fragment</string>
+</resources>
